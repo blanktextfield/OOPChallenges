@@ -1,0 +1,13 @@
+C:\Users\mammu\source\repos\OOPChallenges\Car2\bin\Debug\netcoreapp3.1\Car2.exe
+C:\Users\mammu\source\repos\OOPChallenges\Car2\bin\Debug\netcoreapp3.1\Car2.deps.json
+C:\Users\mammu\source\repos\OOPChallenges\Car2\bin\Debug\netcoreapp3.1\Car2.runtimeconfig.json
+C:\Users\mammu\source\repos\OOPChallenges\Car2\bin\Debug\netcoreapp3.1\Car2.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\OOPChallenges\Car2\bin\Debug\netcoreapp3.1\Car2.dll
+C:\Users\mammu\source\repos\OOPChallenges\Car2\bin\Debug\netcoreapp3.1\Car2.pdb
+C:\Users\mammu\source\repos\OOPChallenges\Car2\obj\Debug\netcoreapp3.1\Car2.csprojAssemblyReference.cache
+C:\Users\mammu\source\repos\OOPChallenges\Car2\obj\Debug\netcoreapp3.1\Car2.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\OOPChallenges\Car2\obj\Debug\netcoreapp3.1\Car2.AssemblyInfo.cs
+C:\Users\mammu\source\repos\OOPChallenges\Car2\obj\Debug\netcoreapp3.1\Car2.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\OOPChallenges\Car2\obj\Debug\netcoreapp3.1\Car2.dll
+C:\Users\mammu\source\repos\OOPChallenges\Car2\obj\Debug\netcoreapp3.1\Car2.pdb
+C:\Users\mammu\source\repos\OOPChallenges\Car2\obj\Debug\netcoreapp3.1\Car2.genruntimeconfig.cache
